@@ -1,5 +1,5 @@
 # Your personal GitHub token
-github_token: 3b4fa2e8b482968dbcced81dd1dd0c4f745a1484
+github_token:
 # Read more: https://github.com/blog/1509-personal-api-tokens
 # You can generate it here: https://github.com/settings/tokens
 
