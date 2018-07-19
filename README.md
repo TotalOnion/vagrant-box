@@ -26,8 +26,12 @@ sure to comment the lines related to Apache.
 or `npm install` etc.
 
 
-#### Note
+#### Working Directory
 The working directory of the box is `/app` not `/vagrant`
+
+#### Database
+The default IP for the database is: `192.168.83.138`. This is configurable in `vagrant/config/vagrant-local.yml`.
+The password for `root` is set to `root`.
 
 
 
