@@ -26,6 +26,10 @@ sure to comment the lines related to Apache.
 or `npm install` etc.
 
 
+#### Note
+The working directory of the box is `/app` not `/vagrant`
+
+
 
 
 
